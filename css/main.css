@@ -1,0 +1,14 @@
+/* Escribe aqui tu CSS */
+div {
+	padding: 30px;
+	border: 10px solid #FFEF1E;
+	height: 180px;
+	width: 180px;
+}
+.uno {
+	text-align: center;
+	margin: 0px;
+}
+.dos {
+	margin: 0 auto;
+}
